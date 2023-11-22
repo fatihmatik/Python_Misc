@@ -1,3 +1,9 @@
+# RULES:
+# - You will start from the top and move downwards to an adjacent number as in below.
+# - You are only allowed to walk downwards and diagonally.
+# - You can only walk over NON PRIME NUMBERS.
+
+
 import time
 #Global values for better readibility of the input of the functions.
 __primesarr = []
